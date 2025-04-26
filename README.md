@@ -27,12 +27,13 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-
-### Ciencia de Datos
+### Ciencia de Datos e Inteligencia Artificial
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 ### Herramientas de Desarrollo
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -47,6 +48,7 @@
 - ⚙️ Programación Orientada a Objetos (POO)
 - 🧹 Código limpio y estructurado
 - 🧮 Ciencia de Datos con Python, Pandas y NumPy
+- 🧠 Procesamiento y Reconocimiento de Imágenes con OpenCV
 - 📊 Construcción de APIs RESTful
 - 📚 Creación de contenido educativo en programación
 - 🎯 Aplicaciones responsivas y optimizadas
@@ -79,3 +81,4 @@
 ---
 
 > *"La tecnología es más poderosa cuando se comparte."* 🚀
+
