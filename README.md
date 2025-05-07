@@ -21,6 +21,9 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Semantic UI](https://img.shields.io/badge/Semantic%20UI-35BDB2?style=flat&logo=semantic-ui-react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -69,6 +72,17 @@
 - 🛠️ [**EjemploCrudPhp**](https://github.com/LillianaU/EjemploCrudPhp) — Sistema CRUD en PHP y MySQL.
 
 ---
+
+## 🖥️ Backend / Web Framework
+![Django](https://img.shields.io/badge/Django-Web%20Framework-092E20?style=flat&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-Web%20Framework-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+## 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-Mobile%20Framework-02569B?style=flat&logo=flutter&logoColor=white)
+
+## 🖥️ GUI / Mobile Framework (Python)
+![Kivy](https://img.shields.io/badge/Kivy-GUI%2FMobile%20Framework-00B140?style=flat&logo=python&logoColor=white)
+
 
 ## 📈 GitHub Stats
 
