@@ -23,6 +23,9 @@
 ![Semantic UI](https://img.shields.io/badge/Semantic%20UI-35BDB2?style=flat&logo=semantic-ui-react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-000000?style=flat&logo=code&logoColor=white)
+
 
 
 ### Backend
