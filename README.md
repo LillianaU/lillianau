@@ -93,8 +93,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LillianaU&show_icons=true&theme=calm" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillianaU&layout=compact&theme=calm" width="48%" />
 </p>
+------
+## 📈 Analítica de Actividad
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lillianau&theme=radical" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lillianau&theme=github-compact" />
+</p>
+------
 
 ## 📫 ¡Conectemos!
 
