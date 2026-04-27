@@ -7,7 +7,7 @@
 
 ## 🌟 Sobre mí
 
-✨ ¡Hola! Soy **Lilliana Uribe González**, apasionada por el **desarrollo fullstack**, la **educación tecnológica** y la creación de soluciones que conectan el aprendizaje con la innovación.  
+✨ ¡Hola! Soy **Lilliana Uribe González**, apasionada por el **desarrollo fullstack**, la **educación tecnológica** y la creación de soluciones que conectan el aprendizaje con la innovación.  
 💻 Como **Ingeniera de Sistemas**, aplico buenas prácticas de **programación orientada a objetos** y promuevo el **código limpio y estructurado**.
 
 ---
@@ -25,8 +25,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-000000?style=flat&logo=code&logoColor=white)
-
-
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -50,6 +48,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-UI-85EA2D?style=flat&logo=swagger&logoColor=black)
+![ReDoc](https://img.shields.io/badge/ReDoc-Documentation-00A9E0?style=flat&logo=openapi-initiative&logoColor=white)
 
 ---
 
@@ -86,20 +86,21 @@
 ## 🖥️ GUI / Mobile Framework (Python)
 ![Kivy](https://img.shields.io/badge/Kivy-GUI%2FMobile%20Framework-00B140?style=flat&logo=python&logoColor=white)
 
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LillianaU&show_icons=true&theme=calm" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillianaU&layout=compact&theme=calm" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LillianaU&show_icons=true&theme=calm" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillianaU&layout=compact&theme=calm" width="48%" />
 </p>
+
 ------
 ## 📈 Analítica de Actividad
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lillianau&theme=radical" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lillianau&theme=github-compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lillianau&theme=radical" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lillianau&theme=github-compact" />
 </p>
+
 ------
 
 ## 📫 ¡Conectemos!
@@ -110,4 +111,3 @@
 ---
 
 > *"La tecnología es más poderosa cuando se comparte."* 🚀
-
