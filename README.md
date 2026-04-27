@@ -32,6 +32,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=flat&logo=fastapi&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ### Base de Datos
@@ -78,6 +79,7 @@
 
 ## 🖥️ Backend / Web Framework
 ![Django](https://img.shields.io/badge/Django-Web%20Framework-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Web%20Framework-05998B?style=flat&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-Web%20Framework-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ## 📱 Mobile Development
