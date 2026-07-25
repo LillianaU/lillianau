@@ -92,23 +92,79 @@
 ## 🖥️ GUI / Mobile Framework (Python)
 ![Kivy](https://img.shields.io/badge/Kivy-GUI%2FMobile%20Framework-00B140?style=flat&logo=python&logoColor=white)
 
-## 📈 GitHub Stats
+# 💻 Lilliana Uribe - Desarrolladora de Software
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ingeniera+de+Software;Desarrolladora+Backend;Apasionada+por+la+Arquitectura+de+Software)](https://git.io/typing-svg)
+
+---
+
+## 📊 Métricas de Desarrollo
+
+### Estadísticas Generales
+| Métrica | Valor |
+|---------|-------|
+| **Total de Contribuciones** | ![GitHub Contributions](https://img.shields.io/github/contributions/lillianau?color=58A6FF&label=Contribuciones%202024) |
+| **Racha Actual** | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lillianau&theme=github-dark-blue&hide_border=true) |
+| **Repositorios** | ![GitHub Repos](https://img.shields.io/badge/Repositorios-?style=flat&logo=github&color=238636&label=) |
+
+---
+
+### 📈 Rendimiento y Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LillianaU&show_icons=true&theme=calm" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillianaU&layout=compact&theme=calm" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LillianaU&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillianaU&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&exclude_repo=portfolio" width="49%" />
 </p>
 
-------
-## 📈 Analítica de Actividad
+---
+
+### 🔥 Racha de Contribuciones y Trophies
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lillianau&theme=radical" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lillianau&theme=github-compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lillianau&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lillianau&theme=onedark&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" width="49%" />
 </p>
 
-------
+---
 
+### 📅 Calendario de Actividad y Contribuciones Detalladas
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lillianau&theme=github_dark&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lillianau&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&point=58A6FF&line=58A6FF&custom_title=Actividad%20Diaria%20de%20Código" width="100%" />
+</p>
+
+---
+
+### 🏆 Logros Destacados
+
+![GitHub Stars](https://img.shields.io/badge/Stars-?style=for-the-badge&logo=github&color=238636&label=)
+![GitHub Followers](https://img.shields.io/badge/Followers-?style=for-the-badge&logo=github&color=238636&label=)
+![GitHub Sponsors](https://img.shields.io/badge/Sponsors-?style=for-the-badge&logo=github&color=238636&label=)
+
+---
+
+### 💡 Tecnologías Predominantes
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lillianau&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lillianau&theme=github_dark" width="49%" />
+</p>
+
+---
+
+## 🎯 Impacto y Contribuciones
+
+- **Total de Commits:** Contribuciones activas a proyectos personales y open source
+- **Proyectos Destacados:** [Lista tus mejores repositorios aquí]
+- **Colaboraciones:** Participación en [proyectos comunitarios/empresariales]
+
+---
+
+*⭐ **Nota:** Estas estadísticas se actualizan automáticamente cada 24 horas. ¡Mantén tu código en movimiento!*
 ## 📫 ¡Conectemos!
 
 - 🔗 [YouTube: Lilliana Uribe G](https://www.youtube.com/@lillianauribeg7317)
