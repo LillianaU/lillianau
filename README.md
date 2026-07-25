@@ -98,36 +98,34 @@
 
 ---
 
-## 📊 Métricas de Desarrollo
 
-### Estadísticas Generales
-| Métrica | Valor |
-|---------|-------|
-| **Total de Contribuciones** | ![GitHub Contributions](https://img.shields.io/github/contributions/lillianau?color=58A6FF&label=Contribuciones%202024) |
-| **Racha Actual** | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lillianau&theme=github-dark-blue&hide_border=true) |
-| **Repositorios** | ![GitHub Repos](https://img.shields.io/badge/Repositorios-?style=flat&logo=github&color=238636&label=) |
+## 📊 Panel de Control Profesional
 
----
-
-### 📈 Rendimiento y Actividad
+### 📈 Estadísticas de Desarrollo
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LillianaU&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillianaU&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&exclude_repo=portfolio" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillianaU&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="49%" />
 </p>
 
----
-
-### 🔥 Racha de Contribuciones y Trophies
+### 🔥 Actividad y Logros
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lillianau&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
   <img src="https://github-profile-trophy.vercel.app/?username=lillianau&theme=onedark&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" width="49%" />
 </p>
 
----
+### 📊 Métricas Clave
 
-### 📅 Calendario de Actividad y Contribuciones Detalladas
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=58A6FF&label=📁%20Repositorios&logo=github&logoColor=white&query=public_repos&url=https://api.github.com/users/lillianau&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=238636&label=🔒%20Privados&logo=github&logoColor=white&query=total_private_repos&url=https://api.github.com/users/lillianau&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=58A6FF&label=📊%20Total&logo=github&logoColor=white&query=%24.public_repos+%2B+%24.total_private_repos&url=https://api.github.com/users/lillianau&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/lillianau?label=👥%20Seguidores&style=for-the-badge&color=58A6FF&logo=github" />
+  <img src="https://img.shields.io/github/stars/lillianau?label=⭐%20Estrellas&style=for-the-badge&color=58A6FF&logo=github" />
+</p>
+
+### 📅 Calendario de Contribuciones
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lillianau&theme=github_dark&hide_border=true" width="100%" />
@@ -139,13 +137,17 @@
 
 ---
 
-### 🏆 Logros Destacados
+## 🛠️ Tecnologías que uso
 
-![GitHub Stars](https://img.shields.io/badge/Stars-?style=for-the-badge&logo=github&color=238636&label=)
-![GitHub Followers](https://img.shields.io/badge/Followers-?style=for-the-badge&logo=github&color=238636&label=)
-![GitHub Sponsors](https://img.shields.io/badge/Sponsors-?style=for-the-badge&logo=github&color=238636&label=)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
 ### 💡 Tecnologías Predominantes
 
