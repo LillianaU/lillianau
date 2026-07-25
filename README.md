@@ -98,15 +98,15 @@
 
 ---
 
-
-## 📊 Panel de Control Profesional
-
 ### 📈 Estadísticas de Desarrollo
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LillianaU&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LillianaU&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="49%" />
-</p>
+
+| Métrica | Dato |
+|---------|------|
+| **Usuario** | [LillianaU](https://github.com/LillianaU) |
+| **Repositorios** | ![GitHub Repos](https://img.shields.io/github/repo-size/LillianaU?style=flat-square&color=58A6FF) |
+| **Proyectos** | ![GitHub Repositories](https://img.shields.io/badge/dynamic/json?color=58A6FF&label=Proyectos&query=public_repos&url=https://api.github.com/users/lillianau&style=flat-square) |
+| **Seguidores** | ![GitHub Followers](https://img.shields.io/github/followers/lillianau?style=flat-square&color=58A6FF) |
 
 ### 🔥 Actividad y Logros
 
