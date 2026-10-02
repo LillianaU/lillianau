@@ -30,9 +30,7 @@ Centrada en el diseño de software limpio, la arquitectura evolutiva y la orques
 ---
 
 ### 🛠️ Tech Stack & Herramientas
-* **Backend:** Python (FastAPI, Django), PHP (Laravel), Node.js
-* **Frontend:** JavaScript, Tailwind CSS, Bootstrap
-* **Bases de Datos & Infraestructura:** MariaDB/MySQL, Docker Compose, GitHub Actions
+**IA & Agentes:** `Agno / Phidata` | `LangChain` | `Agent Harness Design` | `n8n` | `FastAPI` | `Docker` | `PlantUML`
 * **IA & Diagramación:** Agentes autónomos, n8n, PlantUML / C4 Model
 ---
 
