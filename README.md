@@ -7,9 +7,33 @@
 
 ## 🌟 Sobre mí
 
-✨ ¡Hola! Soy **Lilliana Uribe González**, apasionada por el **desarrollo fullstack**, la **educación tecnológica** y la creación de soluciones que conectan el aprendizaje con la innovación.  
-💻 Como **Ingeniera de Sistemas**, aplico buenas prácticas de **programación orientada a objetos** y promuevo el **código limpio y estructurado**.
+# ¡Hola! 👋 Soy desarrolladora Full-Stack e Ingeniera de Software
 
+Centrada en el diseño de software limpio, la arquitectura evolutiva y la orquestación de agentes de IA.
+
+---
+
+### 🚀 Áreas de Enfoque & Competencias
+
+#### 📐 Metodologías Guiadas & Desarrollo Evolutivo
+* **TDD (Test-Driven Development):** Desarrollo guiado por pruebas para garantizar código limpio y sin regresiones.
+* **SDD (Spec-Driven Development):** Diseño basado en especificaciones y contratos claros.
+* **ODD (Organic Driven Development):** Enfoque orgánico y adaptable que facilita la evolución continua del código y la arquitectura según el contexto.
+
+#### 🧠 IA Agéntica & Sistemas Autónomos
+* **Manejo de Agentes:** Orquestación de agentes inteligentes, herramientas (tools) y flujos de trabajo autónomos.
+* **Arquitectura de Arnés (Harness):** Creación de estructuras de control, contexto y guardrails para ejecutar agentes de forma segura.
+
+#### ⚙️ DevOps & CI/CD
+* **Automatización:** Pipelines de pruebas, análisis de código e integración/despliegue continuo.
+
+---
+
+### 🛠️ Tech Stack & Herramientas
+* **Backend:** Python (FastAPI, Django), PHP (Laravel), Node.js
+* **Frontend:** JavaScript, Tailwind CSS, Bootstrap
+* **Bases de Datos & Infraestructura:** MariaDB/MySQL, Docker Compose, GitHub Actions
+* **IA & Diagramación:** Agentes autónomos, n8n, PlantUML / C4 Model
 ---
 
 ## 🛠️ Tecnologías y Herramientas
